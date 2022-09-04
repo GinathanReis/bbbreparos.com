@@ -1,2 +1,0 @@
-# bbbreparos.com
- projeto passoal
