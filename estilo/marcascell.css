@@ -1,0 +1,31 @@
+.marcascell{
+    background-color: #1f2daa63;
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+    margin: auto;
+    display: inline-block;   
+    margin: 15px;
+    backdrop-filter: blur(5px);
+    color: white;
+    box-shadow: 5px 1px 10px rgba(0, 0, 0, 0.308);
+    
+  }
+  .marcascell img {
+    padding-top: 15px;
+    width: 40%;
+    height: 50%;
+    
+  }
+  .marcascell h2 {
+    font-size: 15px;
+  }
+  .marcascell:hover{
+    background-color: rgba(20, 6, 143, 0.671);
+  }
+
+  main{
+    width: 90%;
+    margin: auto;
+  }
+  
