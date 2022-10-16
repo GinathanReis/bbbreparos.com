@@ -9,6 +9,7 @@ body{
     margin: 0px;
     align-items: center;
     background-size: cover;
+    background-image: url(/imagens/fundosvg.jpg);
     
 }
 
