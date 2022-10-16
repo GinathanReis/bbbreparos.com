@@ -16,17 +16,32 @@ section{
       justify-content: space-between;
     
 }
+.s_loja img{
+      width: 100%;
+      max-width: 200px;
+}
+.s_tecnica img{
+      width: 100%;
+      max-width: 200px;
+}
 
+.s_celular img{
+      width: 100%;
+      max-width: 200px;
+}
+.s_computador img{
+      width: 100%;
+      max-width: 200px;
+}
 
 .s_loja{
       border-right: 5px solid black;
       justify-content: center;
       display: flex;
       align-items: center;
-      background-image: url(https://uploads.metropoles.com/wp-content/uploads/2020/10/09144455/Acess%C3%B3rios-celular.jpg);
+      background-image: url(https://edrodrigues.com.br/wp-content/uploads/2020/09/esta-marca-de-tecnologia-visa-a-cultura-descartavel-de-acessorios-para-telefone.jpg);
       background-repeat: no-repeat;
       background-size: cover;
-      background-attachment: fixed;  
       box-shadow: inset 0px 0px 20px 10px  rgba(0, 0, 0, 0.301); 
       transition: 0.8s linear;
 }
@@ -46,12 +61,12 @@ section{
       align-items: center;
 
 
-      background-image: url(https://s3.sa-east-1.amazonaws.com/titulares.ar/wp-content/uploads/2022/04/12125009/1649778608_Reparacion-gratuita-de-iPhone-en-Apple-requisitos.jpg);
+      background-image: url(https://www.myrandainformatica.com.br/img/note.jpg);
       background-repeat: no-repeat;
       background-size: cover;
-      background-attachment: fixed;
       box-shadow: inset 0px 0px 20px 10px  rgba(0, 0, 0, 0.301); 
       transition: 0.8s linear;
+      background-position: right;
       
       
 }
@@ -73,7 +88,6 @@ div.menu{
         margin: 15px;
         width: 40%;
         min-width: 120px;
-        height: 300px;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -87,8 +101,8 @@ div.menu{
         color: #ffffff;
         background-color: #0e0e0e70;
         border-radius: 15px;
-        padding: 10px;
-        font-size: 1em;
+        padding: 5px;
+        font-size: 0.8em;
       }
       
       
@@ -121,12 +135,12 @@ div.menu{
       justify-content: center;
       display: flex;
       align-items: center;
-      background-image: url(https://emporiodocelular.com.br/blog/wp-content/uploads/2020/10/manuten%C3%A7%C3%A3o.png);
+      background-image: url(https://galeriadailha.com.br/wp-content/uploads/2019/04/ref_b_vtek_site_banner_reparo_avan%C3%A7ado_1920x1080px.png);
       background-repeat: no-repeat;
-      background-size: cover;
-      background-attachment: fixed;  
       box-shadow: inset 0px 0px 20px 10px  rgba(0, 0, 0, 0.301); 
       transition: 0.8s linear;
+      background-size: cover;
+      background-position: center;
 
 }
 
@@ -146,12 +160,12 @@ div.menu{
       align-items: center;
 
 
-      background-image: url(https://www.findup.com.br/wp-content/uploads/2020/11/iStock-625135580.jpg);
+      background-image: url(https://www.navegamer.com.br/image/catalog/imgnave/assistencia.jpg);
       background-repeat: no-repeat;
       background-size: cover;
-      background-attachment: fixed;
       box-shadow: inset 0px 0px 20px 10px  rgba(0, 0, 0, 0.301); 
       transition: 0.8s linear;
+      background-position: center;
       
       
 }

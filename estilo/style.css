@@ -14,7 +14,7 @@ body{
 }
 
 header{
-  background-color: #4e27a8;
+  background-color: #4e27a88a;
   max-height: 130px;
   
 }
@@ -37,7 +37,7 @@ header>p{
 }
 
 nav{
-  background-color: #8251f5;
+  background-color: #8251f57a;
   padding: 10px;
 
 }
