@@ -14,15 +14,14 @@ body{
     text-align: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-size: cover;
     align-items: center;
+    background-image: url(/imagens/fundosvg.jpg);
     background-size: cover;
-    background: url(/imagens/fundosvg.jpg);
     
 }
 
 header{
-  background-color: #4e27a88a;
+  background-color: #4e27a8a8;
   max-height: 130px;
 }
 header>h1{
