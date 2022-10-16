@@ -44,11 +44,11 @@ section{
       background-size: cover;
       box-shadow: inset 0px 0px 20px 10px  rgba(0, 0, 0, 0.301); 
       transition: 0.8s linear;
+      background-position: center;
 }
 
 .s_loja:hover{
       width: 80vw;
-      min-height: 45vh;
       transition: 1s
 }
 
@@ -66,13 +66,12 @@ section{
       background-size: cover;
       box-shadow: inset 0px 0px 20px 10px  rgba(0, 0, 0, 0.301); 
       transition: 0.8s linear;
-      background-position: right;
+      background-position: center;
       
       
 }
 .s_tecnica:hover{
       width: 80vw;
-      min-height: 45vh;
       transition: 1s
 }
 
