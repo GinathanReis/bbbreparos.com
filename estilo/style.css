@@ -3,10 +3,6 @@
     padding: 0px;
     margin: 0px;
 }
-
-/*  config extra (heradeer */
-
-
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-position: center;
@@ -16,10 +12,8 @@ body{
     background-repeat: no-repeat;
     align-items: center;
     background-image: url(/imagens/fundosvg.jpg);
-    background-size: cover;
-    
+    background-size: cover;    
 }
-
 header{
   background-color: #4e27a8a8;
   max-height: 130px;
@@ -38,14 +32,11 @@ header>p{
   padding-bottom: 15px;
   text-align: center;
   color: white;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
 }
-
 nav{
   background-color: #8251f5b2;
   padding: 10px;
-
 }
 
 nav>a{
@@ -54,26 +45,16 @@ nav>a{
   text-decoration: none;
   padding: 10px;
 }
-
 nav>a:hover{
   background-color: #4e27a8;
   color: yellow;
 }
-
-
-
 .reistech img{
   max-width: 100px;
 }
-
-a {text-decoration: none;}
-
-
-
+a {
+  text-decoration: none;
+}
 footer{
 background-color: #000000c5;
-
 }
-
-
-
