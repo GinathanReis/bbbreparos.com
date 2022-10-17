@@ -1,6 +1,7 @@
 # bbbreparos.com
 projeto passoal , site de loja de celular
 
+link do site : https://bbbreparos.netlify.app/
 
 ![1](https://user-images.githubusercontent.com/102397101/196055883-d54dfdcc-4acb-4991-a788-b5c3e9d640be.png)
 ![2](https://user-images.githubusercontent.com/102397101/196055890-f4407f62-346b-4b9d-9d57-1b184dfcc01a.png)
